@@ -1,0 +1,109 @@
+# GHC / Cabal / Stack build artifacts
+dist/
+dist-newstyle/
+dist-install/
+.cabal-sandbox/
+cabal.sandbox.config
+cabal.project.local
+cabal.project.freeze
+
+# Stack
+.stack-work/
+
+# GHC environment
+.ghc.environment.*
+
+# Object / interface / dyn files
+*.o
+*.hi
+*.dyn_o
+*.dyn_hi
+
+# Profiling / HPC / eventlog
+*.prof
+*.hp
+*.hpc
+*.eventlog
+
+# Build output dirs (cabal)
+dist/build/
+dist/*/build/
+
+# Binary / temp
+*.exe
+*.out
+*.bin
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+*.orig
+
+# OS
+.DS_Store
+
+# REPL / env
+.ghci_history
+.env
+.hsenv
+
+# Misc
+coverage/
+test-suite.log
+```// filepath: /home/piter/FP_labs/lab2/.gitignore
+# GHC / Cabal / Stack build artifacts
+dist/
+dist-newstyle/
+dist-install/
+.cabal-sandbox/
+cabal.sandbox.config
+cabal.project.local
+cabal.project.freeze
+
+# Stack
+.stack-work/
+
+# GHC environment
+.ghc.environment.*
+
+# Object / interface / dyn files
+*.o
+*.hi
+*.dyn_o
+*.dyn_hi
+
+# Profiling / HPC / eventlog
+*.prof
+*.hp
+*.hpc
+*.eventlog
+
+# Build output dirs (cabal)
+dist/build/
+dist/*/build/
+
+# Binary / temp
+*.exe
+*.out
+*.bin
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+*.orig
+
+# OS
+.DS_Store
+
+# REPL / env
+.ghci_history
+.env
+.hsenv
+
+# Misc
+coverage/
+test-suite.log
