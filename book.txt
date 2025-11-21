@@ -1,0 +1,2 @@
+In Haskell, complex data structures are defined using algebraic data types (ADTs), which allow for the creation of product types (like records or tuples) and sum types (like enums or discriminated unions) 
+to model intricate domain entities. Haskell is declarative.
